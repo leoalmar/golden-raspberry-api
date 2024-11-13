@@ -40,7 +40,7 @@ A API oferece endpoints RESTful, documentação Swagger e suporte a consultas Gr
 ### API RESTful
 
 - **GET /api/producers** Retorna os produtores com o menor e maior intervalo entre vitórias.
-- **GET /api/winning-movies** Retorna os filmes vencedores de cada ano.
+- **GET /api/movies** Retorna os filmes.
 
 ### Documentação Swagger
 
