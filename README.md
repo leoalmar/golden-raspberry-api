@@ -17,7 +17,7 @@ A API oferece endpoints RESTful, documentação Swagger e suporte a consultas Gr
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/golden-raspberry-api.git
+    git clone https://github.com/leoalmar/golden-raspberry-api.git
     cd golden-raspberry-api
     ```
 
